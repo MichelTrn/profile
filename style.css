@@ -84,3 +84,10 @@ p {
   list-style: none;
   padding-left: 0px;
 }
+
+.button-blue{
+  background-color: #4682A9;
+  border-radius: 5px;
+  color : white;
+  padding : 10px
+}
